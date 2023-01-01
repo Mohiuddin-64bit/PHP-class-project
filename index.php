@@ -67,7 +67,7 @@
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-up">
           <div>
-            <h1>we are the best institute in Asia.</h1>
+            <h1>We are one of the best institute in Asia.</h1>
             <h2>
               We are team of talented designers making websites with Bootstrap
             </h2>
@@ -92,7 +92,7 @@
           </div>
           <div class="col-lg-6 d-flex flex-column justify-contents-center" data-aos="fade-left">
             <div class="content pt-4 pt-lg-0">
-              <h3>Learn more about us</h3>
+              <h3>If one takes Technical Education, he/she will find work all over the world</h3>
               <p class="">
                 AITVET has been committed to provide an outstanding practical engineering and technical education. Established in 1995 by Dhaka Ahsania Mission (DAM) and approved by Bangladesh Technical Education Board (BTEB), we proudly stand as the first private prestigious Diploma in Engineering Institute in Bangladesh.
 
