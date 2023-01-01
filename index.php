@@ -5,7 +5,7 @@
   <meta charset="utf-8" />
   <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
-  <title>Scaffold Bootstrap Template - Index</title>
+  <title>AITVET</title>
   <meta content="" name="description" />
   <meta content="" name="keywords" />
 
@@ -95,10 +95,6 @@
               <h3>If one takes Technical Education, he/she will find work all over the world</h3>
               <p class="">
                 AITVET has been committed to provide an outstanding practical engineering and technical education. Established in 1995 by Dhaka Ahsania Mission (DAM) and approved by Bangladesh Technical Education Board (BTEB), we proudly stand as the first private prestigious Diploma in Engineering Institute in Bangladesh.
-
-                Since its inception, AITVET is a leading technical engineering institute for the study. Till now, AITVET is playing a crucial role in the social and economic development of a nation.
-
-                As a post-secondary Institute, AITVET offers an academic four years course in various fields of engineering by following the standard curriculum provided by the Bangladesh Technical Education Board (BTEB).
               </p>
             </div>
           </div>
