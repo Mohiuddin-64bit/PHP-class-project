@@ -49,10 +49,8 @@
           <li><a class="nav-link scrollto active" href="#Home">Home</a></li>
           <li><a class="nav-link scrollto" href="#About">About Us</a></li>
           <li>
-            <a class="nav-link scrollto" href="#Student">Student's Data</a>
+            <a class="nav-link scrollto" href="/form.php">Student's Form</a>
           </li>
-          <li><a class="nav-link scrollto" href="#Update">Update Data</a></li>
-          <li><a class="nav-link scrollto" href="#Add">Add Data</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>
@@ -69,7 +67,7 @@
           <div>
             <h1>We are one of the best institute in Asia.</h1>
             <h2>
-              We are team of talented designers making websites with Bootstrap
+            If one takes Technical Education, he/she will find work all over the world
             </h2>
             <a href="#about" class="btn-get-started scrollto">Get Started</a>
           </div>
