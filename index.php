@@ -67,7 +67,7 @@
           <div>
             <h1>We are one of the best institute in Asia.</h1>
             <h2>
-            If one takes Technical Education, he/she will find work all over the world
+              If one takes Technical Education, he/she will find work all over the world
             </h2>
             <a href="#about" class="btn-get-started scrollto">Get Started</a>
           </div>
